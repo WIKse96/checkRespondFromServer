@@ -1,6 +1,8 @@
 # checkRespondFromServer
 
-#Timeout ustawiony domyślnie na 4s
+#Timeout ustawiony domyślnie na 31s
+
+#Skrypt sprawdza odpowiedź co 4s zeby nie zabić serwera
 
 #plik z linkami prod.csv
 
